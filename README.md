@@ -11,9 +11,10 @@ Choose the API version that best fits your needs:
 ## 📋 API Versions
 
 ### 🟢 API Version 1 (Stable)
-**Production-ready with full feature support**
 
-Our stable API version, recommended for production environments and mission-critical integrations.
+Our legacy API version, with a small set of features.
+
+> ⚠️ **Note:** We strongly recommend the use of API v2 since it has a better performance and contains full capabilities.
 
 | Resource                   | Link                                                                           |
 |----------------------------|--------------------------------------------------------------------------------|
@@ -22,12 +23,9 @@ Our stable API version, recommended for production environments and mission-crit
 
 ---
 
-### 🟡 API Version 2 (Beta)
-**Next-generation features and improvements**
+### 🟢 API Version 2 (Stable)
 
-Our beta API with new capabilities and enhanced functionality. Perfect for testing upcoming features.
-
-> ⚠️ **Note:** This version is under active development and may include breaking changes.
+Our up-to-date API with full capabilities and enhanced functionality, recommended for production environments and mission-critical integrations.
 
 | Resource                   | Link                                                                           |
 |----------------------------|--------------------------------------------------------------------------------|
